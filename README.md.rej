@@ -1,0 +1,10 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -1,4 +1,7 @@
+ # GitTest
+-SourceTree测试仓库
++
++SourceTree 测试仓库
+ 
+ nihao
++
++nihaoa
